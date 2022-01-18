@@ -1,9 +1,3 @@
-//const secret = "BabyHippo";
-//let guess = prompt ("Enter the secret code....");
-//while(guess!==secret){
-  //  guess=prompt("enter the fcking code");
-//}
-//let bla= console.log("Congratulation you got the code")
 
 let maximum=parseInt(prompt("Enter the maximum number"));
 while(!maximum){
